@@ -13,8 +13,6 @@
   - [Potential Enhancements](#potential-enhancements)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- [Contributors](#contributors)
-- [License](#license)
 
 ---
 
